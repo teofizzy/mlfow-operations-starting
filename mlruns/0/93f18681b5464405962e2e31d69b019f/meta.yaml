@@ -1,0 +1,15 @@
+artifact_uri: file:///home/teofilo_acholla_ligawa_gafna/Documents/DSAIL/mlflow-learning/mlruns/0/93f18681b5464405962e2e31d69b019f/artifacts
+end_time: 1714043517576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93f18681b5464405962e2e31d69b019f
+run_name: nosy-bat-862
+run_uuid: 93f18681b5464405962e2e31d69b019f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714043516174
+status: 3
+tags: []
+user_id: teofilo_acholla_ligawa_gafna

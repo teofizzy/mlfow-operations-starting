@@ -1,0 +1,15 @@
+artifact_uri: file:///home/teofilo_acholla_ligawa_gafna/Documents/DSAIL/mlflow-learning/mlruns/0/f72fb79383d645cc88be7f86aece13aa/artifacts
+end_time: 1714043824203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f72fb79383d645cc88be7f86aece13aa
+run_name: loud-shad-670
+run_uuid: f72fb79383d645cc88be7f86aece13aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714043822838
+status: 3
+tags: []
+user_id: teofilo_acholla_ligawa_gafna

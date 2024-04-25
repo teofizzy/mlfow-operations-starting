@@ -1,0 +1,15 @@
+artifact_uri: file:///home/teofilo_acholla_ligawa_gafna/Documents/DSAIL/mlflow-learning/mlruns/0/d8c07e8bcc0543fca88043c3d1aaa029/artifacts
+end_time: 1714043160068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c07e8bcc0543fca88043c3d1aaa029
+run_name: skillful-finch-324
+run_uuid: d8c07e8bcc0543fca88043c3d1aaa029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714043158633
+status: 3
+tags: []
+user_id: teofilo_acholla_ligawa_gafna

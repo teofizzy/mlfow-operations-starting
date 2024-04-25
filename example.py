@@ -4,8 +4,12 @@
 
 import logging
 import sys
+import os
 import warnings
 from urllib.parse import urlparse
+
+from dotenv import load_dotenv
+load_dotenv()
 
 import numpy as np
 import pandas as pd
@@ -76,6 +80,10 @@ if __name__ == "__main__":
 
         predictions = lr.predict(train_x)
         signature = infer_signature(train_x, predictions)
+        
+        # For remote server - dagshub
+        remote_server_uri = os.getenv("MLFLOW_TRACKING_URI")
+        mlflow.set_tracking_uri(remote_server_uri)
 
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
